@@ -1,0 +1,3 @@
+[submodule "Dijkstra"]
+	path = Dijkstra
+	url = https://github.com/ufuk-ozdek/Dijkstra.git
