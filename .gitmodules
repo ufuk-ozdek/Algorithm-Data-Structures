@@ -1,3 +1,18 @@
 [submodule "Dijkstra"]
 	path = Dijkstra
 	url = https://github.com/ufuk-ozdek/Dijkstra.git
+[submodule "RadixSortBase10"]
+	path = RadixSortBase10
+	url = https://github.com/ufuk-ozdek/RadixSortBase10.git
+[submodule "Bellman-Ford"]
+	path = Bellman-Ford
+	url = https://github.com/ufuk-ozdek/Bellman-Ford.git
+[submodule "AVLTree-AVLSort"]
+	path = AVLTree-AVLSort
+	url = https://github.com/ufuk-ozdek/AVLTree-AVLSort.git
+[submodule "Heap-Sort"]
+	path = Heap-Sort
+	url = https://github.com/ufuk-ozdek/Heap-Sort.git
+[submodule "Insertion-Merge_sort"]
+	path = Insertion-Merge_sort
+	url = https://github.com/ufuk-ozdek/Insertion-Merge_sort.git
