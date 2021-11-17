@@ -1,1 +1,1 @@
-# Algorithm-Data-Structures
+# Algorithm-DataStructures
